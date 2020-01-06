@@ -1,0 +1,19 @@
+{
+  "name": "tsnode-homeassistant-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raman Rasliuk <roma@redbox.by>",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.4",
+    "ts-node": "^8.5.4",
+    "tsnode-homeassistant": "^0.0.3",
+    "typescript": "^3.7.4"
+  }
+}
