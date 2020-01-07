@@ -3,7 +3,7 @@
 Clone `git clone 
 https://github.com/troyanskiy/tsnode-homeassistant-seed.git`
 
-Go to the project `cd snode-homeassistant-seed`
+Go to the project `cd tsnode-homeassistant-seed`
 
 Install npm libs `npm i`
 
